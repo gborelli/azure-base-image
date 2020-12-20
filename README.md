@@ -1,0 +1,2 @@
+# azure-base-image
+sss
